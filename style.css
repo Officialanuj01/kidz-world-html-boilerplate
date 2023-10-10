@@ -1,0 +1,248 @@
+#top{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#top1{
+    padding: 0px 0px 10px 60px;
+}
+#top2{
+    height: 28px;
+    width: 28px;
+}
+#top3{
+    height: 40px;
+    width: 150px;
+    display: flex;
+    
+    padding-right: 50px;
+    
+}
+#navbgi{
+    height: 400px;
+    background-image: url("assets/kw-background.png");
+    background-size: cover;
+    
+}
+#navbgi{
+    padding: 70px 0px 0px 60px;
+}
+#books{
+    margin: 100px 40px 0px 40px;
+    
+}
+#heading{
+    font-weight: 900;
+    margin: 0px 0px 20px 28px;
+}
+.intro{
+    color: white;
+    font-size: 70px;
+    margin: 0px 0px 10px 0px;
+}
+.tag{
+    color: white;
+}
+.bookimage{
+    height: 200px;
+    width: 140px;
+}
+.name{
+    margin: 0px 0px 0px 0px;
+}
+.cart{
+    display: flex;
+    background-color: rgb(51, 99, 202);
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.cartlogo{
+    display: flex;
+    justify-content: space-between;
+}
+#first{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px 30px 30px;
+
+}
+.cartsize{
+    height: 20px;
+    width: 20px;
+    margin-top: 4px;
+    color: white;
+}
+.price{
+    font-weight: 900;
+}
+.des{
+    color: gray;
+    margin: 4px 0px 4px 0px;
+}
+#games{
+    display: flex;
+}
+.gameimage{
+    height: 200px;
+    width: 200px;
+}
+.handimage{
+    height: 200px;
+    width: 200px;
+
+}
+footer{
+    height: 150px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+#profile{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.co{
+    color: white;
+}
+.ft1{
+    padding-left: 40px;
+}
+.ft2{
+    padding-right: 60px;
+}
+#co1{
+    margin: 0px 0px 0px 0px;
+}
+#co2{
+    padding-left: 140px;
+
+}
+@media all and (max-width: 400px){
+    #top{
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    #top1{
+        padding: 0px 0px 10px 60px;
+    }
+    #top2{
+        height: 28px;
+        width: 28px;
+    }
+    #top3{
+        height: 40px;
+        width: 150px;
+        display: flex;
+        
+        padding-right: 50px;
+        
+    }
+    #navbgi{
+        height: 400px;
+        background-image: url("assets/kw-background.png");
+        background-size: cover;
+        
+    }
+    #navbgi{
+        padding: 70px 0px 0px 60px;
+    }
+    #books{
+        margin: 100px 40px 0px 40px;
+        
+    }
+    #heading{
+        font-weight: 900;
+        margin: 0px 0px 20px 28px;
+    }
+    .intro{
+        color: white;
+        font-size: 70px;
+        margin: 0px 0px 10px 0px;
+    }
+    .tag{
+        color: white;
+    }
+    .bookimage{
+        height: 200px;
+        width: 140px;
+    }
+    .name{
+        margin: 0px 0px 0px 0px;
+    }
+    .cart{
+        display: flex;
+        background-color: rgb(51, 99, 202);
+        height: 30px;
+        width: 60px;
+        border-radius: 5px;
+        justify-content: space-between;
+    }
+    .cartlogo{
+        display: flex;
+        justify-content: space-between;
+    }
+    #first{
+        display: flex;
+        justify-content: space-between;
+        margin: 0px 30px 30px 30px;
+    
+    }
+    .cartsize{
+        height: 20px;
+        width: 20px;
+        margin-top: 4px;
+        color: white;
+    }
+    .price{
+        font-weight: 900;
+    }
+    .des{
+        color: gray;
+        margin: 4px 0px 4px 0px;
+    }
+    #games{
+        display: flex;
+    }
+    .gameimage{
+        height: 200px;
+        width: 200px;
+    }
+    .handimage{
+        height: 200px;
+        width: 200px;
+    
+    }
+    footer{
+        height: 150px;
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+    }
+    #profile{
+        height: 120px;
+        width: 120px;
+        border-radius: 50%;
+    }
+    .co{
+        color: white;
+    }
+    .ft1{
+        padding-left: 40px;
+    }
+    .ft2{
+        padding-right: 60px;
+    }
+    #co1{
+        margin: 0px 0px 0px 0px;
+    }
+    #co2{
+        padding-left: 140px;
+    
+    }
+}
